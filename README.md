@@ -40,13 +40,13 @@ Project root’da `.env` yarating:
 ```env
 VITE_SUPABASE_URL=
 VITE_SUPABASE_ANON_KEY=
-
-## ▶️ run project
-
+```
+## ▶️ Run project
+```
 npm install
 npm run dev
+```
+## 🔐 Demo Login
 
-🔐 Demo Login
-
-Login: admin
-Parol: 1234
+- Login: admin
+- Parol: 1234
