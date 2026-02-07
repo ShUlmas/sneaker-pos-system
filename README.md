@@ -50,3 +50,19 @@ npm run dev
 
 - Login: admin
 - Parol: 1234
+
+---
+
+## 📸 Screenshots
+
+<p align="start">
+  <img src="screenshots/POS.png" width="500" />
+</p>
+
+<p align="center">
+  <img src="screenshots/Inventory.png" width="500" />
+</p>
+
+<p align="end">
+  <img src="screenshots/Reports.png" width="500" />
+</p>
